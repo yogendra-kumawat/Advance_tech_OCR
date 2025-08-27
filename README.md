@@ -1,3 +1,3 @@
 # Advance_tech_OCR
-model to autofill forms using ocr \n
+model to autofill forms using ocr
 currently on working
