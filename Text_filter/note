@@ -1,0 +1,2 @@
+basically the text filter files uses root mean square difference so that it can find every changes in pixels or 
+intensity around it but makes slow the programme
